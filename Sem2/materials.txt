@@ -1,0 +1,9 @@
+Тренажер Emmet: https://epixx.github.io/emmet/
+Emmet команды: https://docs.emmet.io/cheat-sheet/
+
+https://open-vsx.org/extension/techer/open-in-browser
+https://open-vsx.org/extension/ritwickdey/LiveServer
+
+https://validator.w3.org/#validate_by_input # валидатор для проверки сайта на ошибки
+
+https://ffont.ru/fonts шрифты
